@@ -825,7 +825,7 @@ blockquote::before {
 
 blockquote::after {
 
-	content: "’’";
+	content: "";
 	font-family: serif;
 	position: absolute;
 	left: 100%;
